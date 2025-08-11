@@ -17,8 +17,8 @@ VibeCall is a full-stack video conferencing platform similar to **Google Meet & 
 
 ---
 
-🔗 **Live Demo:** [VibeCall](https://vibecalll.vercel.app/)  
-👨‍💻 **Source Code:** [GitHub Repository](https://github.com/Coding1610/Next.js/tree/main/vibecall)  
+🔗 **Live Demo:** [VibeCall](https://vibe--call.vercel.app/)  
+👨‍💻 **Source Code:** [GitHub Repository](https://github.com/Coding1610/vibecall)  
 
 ---
 
